@@ -651,11 +651,4 @@
         grid-template-rows: 308px 327px;
     }
 
-    .event__name {
-        font-weight: 700;
-        font-size: 14px;
-        line-height: 19px;
-        color: #2B3541;
-        margin: 17px 0 0;
-        width: 50%; }
     }
