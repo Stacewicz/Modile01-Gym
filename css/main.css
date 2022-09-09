@@ -815,9 +815,3 @@ footer ul .nav_link:hover::after {
 .subscribe__button {
     border: none;
 }
-
-
-
-.rights_reserved {
-    color: rgba(43, 53, 65, .3);
-}
