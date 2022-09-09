@@ -818,15 +818,6 @@ footer ul .nav_link:hover::after {
 
 
 
-input:invalid {
-    border: 2px solid black;
-}
-
-input:valid {
-    border: 2px solid red;
-}
-
-
 .rights_reserved {
     color: rgba(43, 53, 65, .3);
 }
