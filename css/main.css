@@ -482,6 +482,7 @@ nav li {
     position: absolute;
     bottom: 0;
     padding: 20px 0;
+    margin-left: 3px;
     font-weight: 700;
     font-size: 18px;
     line-height: 125%;
@@ -1008,3 +1009,16 @@ footer ul .nav_link:hover::after {
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+.subscribe__button:hover {
+    cursor: pointer;
+}
+
+.subscribe__button {
+    border: none;
+}
+
+input [type="email"]:invalid:hover {
+border: 2px solid red;
+}
+

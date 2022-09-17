@@ -87,24 +87,24 @@
 @media(min-width: 1927px) {
     .port3 {
         width: 368px;
-    height: 406px;
-    top: -3px;
-    left: -1.5px;
+        height: 406px;
+        top: -3px;
+        left: -1.5px;
     }
 
-.port1 { 
+    .port1 {
         width: 368px;
         height: 406px;
         top: -3px;
         left: -3.5px;
-}
+    }
 
-.port3 {
-    width: 369px;
-    height: 406px;
-    top: -3px;
-    left: -2.5px;
-}
+    .port3 {
+        width: 369px;
+        height: 406px;
+        top: -3px;
+        left: -2.5px;
+    }
 
 }
 
@@ -851,13 +851,16 @@
         grid-template-columns: 1fr;
         row-gap: 41px;
     }
+
 }
+
 
 @media(max-width: 550px) {
 
 
+
     .banner {
-        margin: 0 0 122px;
+        margin: 0 0 59px;
     }
 
     .banner__content {
@@ -914,8 +917,12 @@
         top: inherit;
         bottom: 0;
         left: 50%;
-        transform: translateX(-50%);
-    }
+        transform: translateX(-50%);    ;
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+}
 
     .banner__arrow img {
         display: none;
