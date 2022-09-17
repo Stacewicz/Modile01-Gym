@@ -815,3 +815,7 @@ footer ul .nav_link:hover::after {
 .subscribe__button {
     border: none;
 }
+
+input [type="email"]:invalid:hover {
+border: 2px solid red;
+}
