@@ -820,3 +820,8 @@ footer ul .nav_link:hover::after {
 input [type="email"]:invalid:hover {
 border: 2px solid red;
 }
+
+.lab {
+  margin-left: 5px;
+}
+
