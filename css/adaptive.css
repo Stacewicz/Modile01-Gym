@@ -697,6 +697,13 @@
 }
 
 @media(max-width: 550px) {
+    .lab {
+        margin-left: 3px;
+    }
+}
+
+
+@media(max-width: 550px) {
 
 
     .banner {
