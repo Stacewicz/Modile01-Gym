@@ -465,7 +465,7 @@ nav li {
     position: absolute;
     bottom: 0;
     padding: 20px 0;
-    left: 3px;
+    margin-left: 3px;
     font-weight: 700;
     font-size: 18px;
     line-height: 125%;
