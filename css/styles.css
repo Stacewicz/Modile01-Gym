@@ -749,3 +749,16 @@ footer ul .nav_link:hover::after {
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+
+input[data-rule].valid {
+    border: 1px solid #FBF138;
+}
+input[data-rule].invalid {
+    border: 1px solid #AE0303;
+}
+
+.subscribe__button {
+    border: none;
+    cursor: pointer;
+}

@@ -651,4 +651,8 @@
     .events__grid {
         grid-template-rows: 308px 327px;
     }
+
+    .schedule__title {
+        left: 90px;
+    }
 }
