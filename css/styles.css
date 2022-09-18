@@ -758,7 +758,7 @@ input[data-rule].invalid {
     border: 1px solid #AE0303;
 }
 
-.subscribe__button {
+.btn {
     border: none;
     cursor: pointer;
 }
